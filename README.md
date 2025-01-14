@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/juanpedrooliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juanpedrooliveira" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e ferramentas que eu tenho comnhecimento ☝🏼🤓:</h3>
+<h3 align="left">Linguagens e ferramentas que eu tenho conhecimento ☝🏼🤓:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
