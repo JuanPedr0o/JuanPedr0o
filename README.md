@@ -55,6 +55,3 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanpedr0o&show_icons=true&locale=en&layout=compact" alt="juanpedr0o" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanpedr0o&show_icons=true&locale=en" alt="juanpedr0o" /></p>
