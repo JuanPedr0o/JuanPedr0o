@@ -5,8 +5,6 @@
   <img alt="Coding" width="250" src="https://giffiles.alphacoders.com/102/102423.gif">
 </p>
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=juanpedr0o&label=Profile%20views&color=0e75b6&style=flat" alt="juanpedr0o" /> </p>
-
 - 🌱 Atualmente estou aprendendo **exploit development, segurança cibernética, cloud (Azure) e automação 🚀**
 
 <h3 align="left">Meu contato🧐:</h3>
