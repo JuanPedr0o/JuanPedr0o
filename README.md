@@ -1,4 +1,25 @@
-<h1 align="center">Oi, Meu Nome é Juan Pedro 👋</h1>
+<div align="center" style="
+  background: linear-gradient(145deg, #1a1a1a 0%, #2d2d2d 100%);
+  padding: 20px;
+  border-radius: 8px;
+  margin: 25px 0;
+  border: 1px solid #404040">
+  
+  <p style="
+    color: #d0d0d0;
+    font-size: 1.2em;
+    margin: 0;
+    font-family: 'Helvetica Neue', sans-serif">
+    ⚙️ <i>"Security is not a product,</i><br>
+    <i style="color: #a0a0a0">but a process."</i>
+  </p>
+  <p style="
+    color: #707070;
+    font-size: 0.8em;
+    margin: 8px 0 0 0">
+    ― Bruce Schneier
+  </p>
+</div>
 <h3 align="center">Ethical Hacking | Automação | Cloud | Exploit Development</h3>
 
 <div align="center">
