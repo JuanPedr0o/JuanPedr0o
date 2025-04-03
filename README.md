@@ -8,9 +8,17 @@
 ---
 
 ### 🔥 Sobre Mim
-- 🌱 Atualmente aprendendo: **Exploit Development, Segurança Cibernética, Azure Cloud e Automações Python**
+- 🌱 Atualmente aprendendo: **Exploit Development,  Azure Cloud, Automações e script **
 - 🎯 Objetivo: **Desenvolver soluções inovadoras para segurança ofensiva**
 - 💡 Curiosidade: **Fascinado por reverse engineering e inteligência de ameaças**
+<p align="left"><strong>🕵️ Tabela de Habilidades</strong></p>
+
+| Área          | Tecnologias                          | Ferramentas                      |
+|---------------|--------------------------------------|----------------------------------|
+| **Pentest**   | ▪️ Python ▪️ C ▪️ Bash              | ▪️ Metasploit ▪️ Nmap ▪️ Wireshark|
+| **Cloud**     | ▪️ Azure                           | ▪️ Terraform                    |
+| **Dev**       | ▪️ Python ▪️ Java ▪️ SQL            | ▪️ Vscode ▪️ Pycharm ▪️ dev C     |
+| **OS**        | ▪️ Kali Linux ▪️ ParrotOS ▪️ Windows | ▪️ VirtualBox ▪️ VMware          |
 
 ---
 
@@ -58,5 +66,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45">
   </a>
 </p>
+
 
 ---
