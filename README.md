@@ -29,7 +29,7 @@
 ---
 
 ### 🔥 Sobre Mim
-- 🌱 Atualmente aprendendo: **Exploit Development,  Azure Cloud, Automações e script **
+- 🌱 Atualmente aprendendo: **Exploit Development,  Azure Cloud, Automações e script**
 - 🎯 Objetivo: **Desenvolver soluções inovadoras para segurança ofensiva**
 - 💡 Curiosidade: **Fascinado por reverse engineering e inteligência de ameaças**
 <p align="left"><strong>🕵️ Tabela de Habilidades</strong></p>
